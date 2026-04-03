@@ -93,7 +93,6 @@ Indian_REITs_Dashboard/
 │
 ├── reits_dashboard.ipynb        # Python analysis & modeling
 ├── README.md                   # Project documentation
-├── visuals/                    # Charts (risk-return, correlation)
 └── relevant_data/              # (excluded from repo via .gitignore)
 ```
 
