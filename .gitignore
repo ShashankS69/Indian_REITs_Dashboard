@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+
+# Datasets
+data/
+dataset/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Large files
+*.csv
+*.xlsx
+*.pdf
+*.xlsx
+.DS_Store
